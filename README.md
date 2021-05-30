@@ -2,7 +2,7 @@
 Repository consisting of important research papers on weak supervision - Image, Audio, Video
 
 # Reading List for topics in Weakly Supervised Sound Event Detection
-By [Soham Deshmukh](https://soham97.github.io)
+
 
 Papers covering multiple sub-areas are listed in both the sections. If there are any areas, papers, and datasets I missed, please let me know or feel free to make a pull request.
 
@@ -202,3 +202,8 @@ List of old workshops (archived) and on-going workshops/conferences/journals:
 ## Resources
 [Computational Analysis of Sound Scenes and Events](https://www.springer.com/us/book/9783319634494)
 
+
+## Credits 
+By [Ankit Shah](https://ankitshah009.github.io/)
+
+Some of the links here were picked from repository by [Soham Deshmukh](https://soham97.github.io/)
