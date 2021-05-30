@@ -96,6 +96,8 @@ Papers covering multiple sub-areas are listed in both the sections. If there are
 [AST: Audio Spectrogram Transformer](https://arxiv.org/abs/2104.01778), ArXiv 2021
 
 ### Pooling functions
+[Frequency-dependent auto-poolingfunction for weakly supervised sound event detection](https://asmp-eurasipjournals.springeropen.com/track/pdf/10.1186/s13636-021-00206-7.pdf), EURASIP Journal on Audio, Speech, Music Processing
+
 [Adaptive Pooling Operators for Weakly Labeled Sound Event Detection](https://dl.acm.org/doi/10.1109/TASLP.2018.2858559), TASLP 2018
 
 [Comparing the Max and Noisy-Or Pooling Functions in Multiple Instance Learning for Weakly Supervised Sequence Learning Tasks](https://www.isca-speech.org/archive/Interspeech_2018/pdfs/0990.pdf), Interspeech 2018
