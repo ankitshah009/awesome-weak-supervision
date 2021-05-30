@@ -1,9 +1,24 @@
 # awesome-weak-supervision
 Repository consisting of important research papers on weak supervision - Image, Audio, Video
 
-# Reading List for topics in Weakly Supervised Sound Event Detection
+# Weak Supervision in Images
 
 
+## Research Papers 
+
+### [Exploring the limits of Weakly Supervised Pretraining](https://arxiv.org/abs/1805.00932)
+
+## GitHub Repositories
+
+### [WSLImages](https://github.com/facebookresearch/WSL-Images)
+
+# Weak Supervision in Video
+
+
+
+
+# Weakly Supervised Sound Event Detection
+	
 Papers covering multiple sub-areas are listed in both the sections. If there are any areas, papers, and datasets I missed, please let me know or feel free to make a pull request.
 
 ## Table of Contents
